@@ -1,0 +1,20 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+body {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+pre {
+  background-color: #f1f1f1;
+  max-height: 400px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+}
